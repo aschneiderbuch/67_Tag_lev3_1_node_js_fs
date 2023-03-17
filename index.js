@@ -105,8 +105,9 @@ function testFunktion(para){
     })
 }
 
+let c = "Hallo Hallo Hallo Hallo"
 
-testFunktion("Hallo")
+testFunktion(c)
 testFunktion("wer")
 testFunktion("bist")
 testFunktion("du ")
@@ -115,3 +116,5 @@ testFunktion("Oh ")
 testFunktion("wie ")
 testFunktion("heißt")
 testFunktion("du denn")
+
+
